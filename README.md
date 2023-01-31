@@ -1,7 +1,7 @@
 # Employee Coincidence Finder
 This is a project made with Java. It consists of reading employees name and hour arrival from a TXT file and using this data to compare if certain employees arrived at the same time frame.
 
-# How does this work?
+# How does this work and how did I approach it?
 
 First off, you read a .TXT File containing the employees name and hours worked at a given time frame. Then, you put both the name and the hours in an object called Employee to encapsulate the information. The time frame is also encapsulated as an object called Hour, which has both the start time hour and the end time hour of a time frame.
 
@@ -22,5 +22,6 @@ This project is divided into:
 ├── data.txt              # TXT File with Data
 
 └── Main.java             # Main file
+
 
 
