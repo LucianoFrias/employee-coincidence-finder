@@ -8,3 +8,23 @@ First off, you read a .TXT File containing the employees name and hours worked a
 Later, I created a EmployeeSystem object to handle the operations with the object Employee. This EmployeeSystem object lets us save the employees object in a list.
 
 Finally, we call the findCoincidence() method, which takes up two strings (the first employee's name, the second employee's name). These names are compared if they are saved up in the list and if they are, it takes both employee's start times and endtimes to compare if an employee has coincided with another employee in the office. This method returns the amount of times these employees have been at the same time in the office.
+
+# Arquitecture
+
+This project is divided like this:
+
+- lib
+  | j-unit-library.lib
+  
+- src
+ | employee
+  - Employee.java
+ | hour
+  - Hour.java
+ | system
+  - EmployeeSystem.java
+ | tests
+  - EmployeeTesting.java
+ 
+- data.txt
+- Main.java
