@@ -23,5 +23,8 @@ This project is divided into:
 
 └── Main.java             # Main file
 
+# How to run the program
+
+1. Clone the code through `<> Code` -> `Download ZIP`
 
 
