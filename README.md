@@ -16,4 +16,4 @@ Finally, we call the findCoincidence() method, which takes up two strings (the f
 ├── src                   # Source code
 ├── tests                 # Automated Tests (JUnit)
 ├── data.txt              # TXT File with Data
-├── Main.java             # Main file
+└── Main.java             # Main file
