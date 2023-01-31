@@ -13,7 +13,6 @@ Finally, we call the findCoincidence() method, which takes up two strings (the f
 
 This project is divided like this:
 
-###
 .
 ├── lib                   # Library files (testing purposes)
     └── j-unit.lib
