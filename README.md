@@ -14,16 +14,16 @@ Finally, we call the findCoincidence() method, which takes up two strings (the f
 This project is divided like this:
 
 - lib
-  | j-unit-library.lib
+  / j-unit-library.lib
   
 - src
- | employee
+ / employee
   - Employee.java
- | hour
+ / hour
   - Hour.java
- | system
+ / system
   - EmployeeSystem.java
- | tests
+ / tests
   - EmployeeTesting.java
  
 - data.txt
