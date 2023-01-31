@@ -15,15 +15,7 @@ This project is divided like this:
 
 .
 ├── lib                   # Library files (testing purposes)
-    └── j-unit.lib
 ├── src                    # Source code
-    ├── employee
-        └── Employee.java
-    ├── hour
-        └── Hour.java
-    ├── system
-        └── EmployeeSystem.java
-    └── tests
-         └── EmployeeTests.java
+├── tests                    # Automated Tests (JUnit)
 ├── data.txt                  # TXT File with Data
 └── Main.java                   # Main file
