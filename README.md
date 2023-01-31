@@ -13,18 +13,17 @@ Finally, we call the findCoincidence() method, which takes up two strings (the f
 
 This project is divided like this:
 
-- lib
-  / j-unit-library.lib
-  
-/ src
- / employee
-  / Employee.java
- / hour
-  / Hour.java
- / system
-  / EmployeeSystem.java
- / tests
-  / EmployeeTesting.java
- 
-- data.txt
-- Main.java
+
+├── lib                   # Library files (testing purposes)
+    └── j-unit.lib
+├── src                    # Source code
+    ├── employee
+        └── Employee.java
+    ├── hour
+        └── Hour.java
+    ├── system
+        └── EmployeeSystem.java
+    └── tests
+         └── EmployeeTests.java
+├── data.txt                  # TXT File with Data
+└── Main.java                   # Main file
