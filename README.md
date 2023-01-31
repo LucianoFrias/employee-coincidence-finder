@@ -9,9 +9,7 @@ Later, I created a EmployeeSystem object to handle the operations with the objec
 
 Finally, we call the findCoincidence() method, which takes up two strings (the first employee's name, the second employee's name). These names are compared if they are saved up in the list and if they are, it takes both employee's start times and endtimes to compare if an employee has coincided with another employee in the office. This method returns the amount of times these employees have been at the same time in the office.
 
-# Arquitecture
-
-This project is divided like this:
+### Arquitecture
 
 .
 ├── lib                   # Library files (testing purposes)
