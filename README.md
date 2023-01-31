@@ -17,3 +17,11 @@ Finally, we call the findCoincidence() method, which takes up two strings (the f
 ├── tests                 # Automated Tests (JUnit)
 ├── data.txt              # TXT File with Data
 └── Main.java             # Main file
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
