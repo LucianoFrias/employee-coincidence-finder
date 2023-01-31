@@ -28,8 +28,8 @@ This project is divided into:
 1. Clone the code through `<> Code` -> `Download ZIP`
 2. Extract it wherever you like, preferably the desktop.
 3. Open un the CMD (Terminal) and go to the project's folder using `cd` command.
-4. Once inside the folder, type javac Main.java to compile the code.
-5. Finally, type java Main.java to run the program.
+4. Once inside the folder, type `javac Main.java` to compile the code.
+5. Finally, type `java Main.java` to run the program.
 
 # Conclusion
 
