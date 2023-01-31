@@ -16,15 +16,15 @@ This project is divided like this:
 - lib
   / j-unit-library.lib
   
-- src
+/ src
  / employee
-  - Employee.java
+  / Employee.java
  / hour
-  - Hour.java
+  / Hour.java
  / system
-  - EmployeeSystem.java
+  / EmployeeSystem.java
  / tests
-  - EmployeeTesting.java
+  / EmployeeTesting.java
  
 - data.txt
 - Main.java
