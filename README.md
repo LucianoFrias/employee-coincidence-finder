@@ -11,7 +11,8 @@ Finally, we call the findCoincidence() method, which takes up two strings (the f
 
 # Arquitecture
 
-.
+This project is divided into:
+
 ├── lib                   # Library files (testing purposes)
 
 ├── src                   # Source code
